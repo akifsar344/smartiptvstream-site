@@ -1,0 +1,22 @@
+{
+  "name": "Smart IPTV Stream",
+  "short_name": "IPTV Stream",
+  "description": "Smart IPTV Stream is a fast, beautiful IPTV player for LG webOS, Samsung TV, Android TV, phones and the web. Load Xtream or M3U playlists, get EPG, movies, series, catch-up, multi-screen and subtitles. One-time payment, no subscription.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0a1a",
+  "theme_color": "#0a0a1a",
+  "icons": [
+    {
+      "src": "/assets/androidlogo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/appicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
